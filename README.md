@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! Nice to meet you 👋
+
+
+I’m Manuel Ángel Suárez Álvarez, a Machine Learning Engineer and Computer Science enthusiast. I grew up between cows and chickens in a small farming village in Asturias, Spain.
+
+As of now, I am woring on Large Language Model applications at BBVA's AI Factory, as a memeber of the Generative AI Laboratory.
+Previously, I worked building software and machine learning tools in the Air Traffic Control industry at [DataBeacon](databeacon.aero).
+
+I’m best reached via email. I’m always open to interesting conversations and collaboration.
+
 
 <!--
 **ManuelAngel99/ManuelAngel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
